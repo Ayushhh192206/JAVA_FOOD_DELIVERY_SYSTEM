@@ -9,7 +9,6 @@ class FoodItem {
         this.price = price;
     }
 }
-
 class OrderItem {
     FoodItem item;
     int quantity;
